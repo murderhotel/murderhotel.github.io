@@ -1,3 +1,6 @@
+## Roadmap
+<img src="roadmap.png" width="100%">
+
 ## The Team
 <img src="Team.jpg" width="100%">
 
