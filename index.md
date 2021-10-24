@@ -33,6 +33,15 @@ It takes a considerable time investment and a certain headspace to begin playing
 Murder Hotel aims to be the base for a suite of similar, yet different bite sized games that can be purchased at lower price points, individually. Moreover, their short length and single-session play length allow this type of game to fit into a busy schedule much easier that an expensive, heavy AAA game would at a considerably lower price point. PC VR users do presumably have money to spend, but 5 AAA games can easily surpass the price of a headset while not offering much variety.
 
 ## Key Metrics
+Given the fact that our long-term goal is to create an engaging suite of games based on the same principle, the aspects we should focus on are related to user gain and multiple games purchases. 
+- Daily new users
+- Daily active users (DAU)
+- Monthly Active Users (MAU)
+- Returning users: users that purchased and played multiple games from us
+- Average Session Length: offers insight on the users’ attention span and engagement level
+
+Other metrics, based on a stable audience, are not applicable or relevant for puzzle games with a premium monetization scheme.
+
 
 ## Cost Structure
 **Product cost**: hardware (fixed)
