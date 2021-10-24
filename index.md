@@ -1,15 +1,5 @@
 ## The Team
-<img src="mara.jpg" width="100">
-
-**Mara Chirascu** - Marketing Researcher, Lead Game Designer
-
-<img src="lavinia.jpg" width="100">
-
-**Lavinia Loghin** - Public Facing Services, Software Engineer
-
-<img src="chris.jpg" width="100">
-
-**Chris Luntraru** - Tech Lead, Game Designer
+<img src="Team.jpg" width="100%">
 
 ## The Problem
 Video games are starting to feel stale nowadays. There can be no doubt that the entertainment industry could always benefit from innovative ideas and new twists on classic designs. We believe that the genre that benefits the most from virtual reality is horror. The extra immersion gained from a complete field of view serves to communicate fear and tension in a much more visceral way.
@@ -21,11 +11,7 @@ By choosing to play our games, you have the get to experience a whole new realit
 We target a niche-market customer segment. Our customers are people who regularly play and enjoy either puzzle games, horror games or both and feel the need to elevate their experience. Moreover, those we target need to own a VR headset and a PC capable of running VR games. These restrictions mean that they are willing to spend a notable amount of money on their hobby, a fact that can be taken into consideration when developing a business model.
 
 ## Competition
-<img src="hellblade.jpg" width="200">
-**Hellblade: Senua's Sacrifice** - An award winning puzzle-horror game that supports VR. Puzzles are based on Senua's perception of reality that is different from other people's.
-
-<img src="twd.png" width="200">
-**The Walking Dead: Saints & Sinners** - A narrative-driven VR horror game built around hard decisions that the player has to make.
+<img src="Competition.jpg" width="100%">
 
 ## Advantage Over The Competition
 It takes a considerable time investment and a certain headspace to begin playing and enjoy an AAA game. Sessions tend to only be fun if you have enough time to get completely immersed and absorbed into the experience, not to mention the high price point. AAA games need to be purchased every time one wants a new experience, and the financial investment can quickly add up.
