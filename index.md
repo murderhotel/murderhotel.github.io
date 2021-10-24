@@ -17,7 +17,7 @@ We target a niche-market customer segment. Our customers are people who regularl
 <img src="Competition.jpg" width="100%">
 
 ## Advantage Over The Competition
-It takes a considerable time investment and a certain headspace to begin playing and enjoy an AAA game. Sessions tend to only be fun if you have enough time to get completely immersed and absorbed into the experience, not to mention the high price point. AAA games need to be purchased every time one wants a new experience, and the financial investment can quickly add up.
+It takes a considerable time investment and a certain headspace to begin playing an AAA game. Sessions tend to only be fun if you have enough time to get completely immersed and absorbed into the experience, not to mention the high price point. AAA games need to be purchased every time one wants a new experience, and the financial investment can quickly add up.
 
 Murder Hotel aims to be the base for a suite of similar, yet different bite sized games that can be purchased at lower price points, individually. Moreover, their short length and single-session play length allow this type of game to fit into a busy schedule much easier that an expensive, heavy AAA game would at a considerably lower price point. PC VR users do presumably have money to spend, but 5 AAA games can easily surpass the price of a headset while not offering much variety.
 
@@ -42,5 +42,5 @@ Other metrics, based on a stable audience, are not applicable or relevant for pu
 **Customer cost**: product returns (variable), physical deluxe editions (fixed)
 
 ## Revenue Streams
-Transaction-based revenue: the games will be sold premium, at a price point around 15€ in order to keep the "risk" of buying another game low and encouraging customers to return to our games repeatedly, while still feeling that their spending is minimal.
+Transaction-based revenue: the games will be sold premium, at a price point around 15€ in order to keep the commitment of buying another game low and encouraging customers to return to our games repeatedly, while still feeling that their spending is minimal.
 
