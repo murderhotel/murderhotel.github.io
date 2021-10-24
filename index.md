@@ -5,7 +5,7 @@
 
 <img src="lavinia.jpg" width="100">
 
-**Lavinia Loghin** - Public Facing Services, Skilled Software Engineer
+**Lavinia Loghin** - Public Facing Services, Software Engineer
 
 <img src="chris.jpg" width="100">
 
@@ -21,4 +21,14 @@ By choosing to play our games, you have the get to experience a whole new realit
 We target a niche-market customer segment. Our customers are people who regularly play and enjoy either puzzle games, horror games or both and feel the need to elevate their experience. Moreover, those we target need to own a VR headset and a PC capable of running VR games. These restrictions mean that they are willing to spend a notable amount of money on their hobby, a fact that can be taken into consideration when developing a business model.
 
 ## Competition
+<img src="hellblade.jpg" width="200">
+**Hellblade: Senua's Sacrifice** - An award winning puzzle-horror game that supports VR. Puzzles are based on Senua's perception of reality that is different from other people's.
+
+<img src="twd.png" width="200">
+**The Walking Dead: Saints & Sinners** - A narrative-driven VR horror game built around hard decisions that the player has to make.
+
+## Advantage Over The Competition
+It takes a considerable time investment and a certain headspace to begin playing and enjoy an AAA game. Sessions tend to only be fun if you have enough time to get completely immersed and absorbed into the experience, not to mention the high price point. AAA games need to be purchased every time one wants a new experience, and the financial investment can quickly add up.
+
+Murder Hotel aims to be the base for a suite of similar, yet different bite sized games that can be purchased at lower price points, individually. Moreover, their short length and single-session play length allow this type of game to fit into a busy schedule much easier that an expensive, heavy AAA game would at a considerably lower price point. PC VR users do presumably have money to spend, but 5 AAA games can easily surpass the price of a headset while not offering much variety.
 
