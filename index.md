@@ -32,3 +32,14 @@ It takes a considerable time investment and a certain headspace to begin playing
 
 Murder Hotel aims to be the base for a suite of similar, yet different bite sized games that can be purchased at lower price points, individually. Moreover, their short length and single-session play length allow this type of game to fit into a busy schedule much easier that an expensive, heavy AAA game would at a considerably lower price point. PC VR users do presumably have money to spend, but 5 AAA games can easily surpass the price of a headset while not offering much variety.
 
+## Key Metrics
+
+## Cost Structure
+Product cost: hardware (fixed)
+Service cost: software licenses (fixed), server maintenance (fixed), art & audio outsourcing (variable, need-based)
+Product line cost: publisher commission
+Customer cost: product returns (variable), physical deluxe editions (fixed)
+
+## Revenue Streams
+Transaction-based revenue: the games will be sold premium, at a price point around 15€ in order to keep the "risk" of buying another game low and encouraging customers to return to our games repeatedly, while still feeling that their spending is minimal.
+
