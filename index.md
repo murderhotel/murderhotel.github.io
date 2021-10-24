@@ -35,10 +35,13 @@ Murder Hotel aims to be the base for a suite of similar, yet different bite size
 ## Key Metrics
 
 ## Cost Structure
-Product cost: hardware (fixed)
-Service cost: software licenses (fixed), server maintenance (fixed), art & audio outsourcing (variable, need-based)
-Product line cost: publisher commission
-Customer cost: product returns (variable), physical deluxe editions (fixed)
+**Product cost**: hardware (fixed)
+
+**Service cost**: software licenses (fixed), server maintenance (fixed), art & audio outsourcing (variable, need-based)
+
+**Product line cost**: publisher commissions
+
+**Customer cost**: product returns (variable), physical deluxe editions (fixed)
 
 ## Revenue Streams
 Transaction-based revenue: the games will be sold premium, at a price point around 15€ in order to keep the "risk" of buying another game low and encouraging customers to return to our games repeatedly, while still feeling that their spending is minimal.
