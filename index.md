@@ -33,7 +33,7 @@ Other metrics, based on a stable audience, are not applicable or relevant for pu
 
 
 ## Cost Structure
-**Product cost**: hardware (fixed)
+**Product cost**: hardware (fixed) 
 
 **Service cost**: software licenses (fixed), server maintenance (fixed), art & audio outsourcing (variable, need-based)
 
