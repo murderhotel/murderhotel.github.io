@@ -114,7 +114,7 @@ With this question we were trying to verify if both game elements equally appeal
 What we get from this part of the survey is that over 50% of people play video games weekly or even more frequently, but it's not very often that it's a horror game. That means that in our marketing strategy we should highlight that it has two genres, so that it appeals to both horror and non-horror gamers.
 Moreover, when people are playing horror games they prefer doing it during the night, to enhance their experience. This leaves room for us to make certain decisions such as events or bonuses during nigh-time.
 
-![Google Forms screenshot](/questions/8.jpg "Which of these features would make your gaming experience unique?)
+![Google Forms screenshot](/questions/8.jpg "Which of these features would make your experience unique?")
 
 First to notice is that there is not much of an interest in having a pack of games. That means we will reconsider this after launching the game. Instead, we can focus on having consequences and unique horror through auditory-visual illusions.
 There was a positive response to having a self paced game and having little to no instructions, which will definitely set us apart from the competition.
