@@ -157,7 +157,7 @@ The third and last level takes place in the basement. Looking around there is a 
 
 
 # Landing Page
-In terms of our website's landing page, we decided to get help from Adobe XD, because of it's easy prototyping and the possibility to export the whole thing to HTML and CSS files or even to a React project using Anima.
+In terms of our website's landing page, we decided to get help from Adobe XD, because of its easy prototyping and the possibility to export the whole thing to HTML and CSS files or even to a React project using Anima.
 
 ##### [Our Adobe XD Landing Page](https://xd.adobe.com/view/c18cd843-cd7c-4ad7-b545-360d96365b5a-94df/)
 
