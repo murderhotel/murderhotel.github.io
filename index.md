@@ -159,7 +159,7 @@ The third and last level takes place in the basement. Looking around there is a 
 # Landing Page
 In terms of our website's landing page, we decided to get help from Adobe XD, because of it's easy prototyping and the possibility to export the whole thing to HTML and CSS files or even to a React project using Anima.
 
-# [Our Adobe XD Landing Page](https://xd.adobe.com/view/c18cd843-cd7c-4ad7-b545-360d96365b5a-94df/)
+##### [Our Adobe XD Landing Page](https://xd.adobe.com/view/c18cd843-cd7c-4ad7-b545-360d96365b5a-94df/)
 
 An XD project usually starts with a defined color palette, for which we chose grey-based colors and a pop of a vibrant red.
 The navigation bar contains easy to access information, including links to buying or testing the game.
