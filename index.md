@@ -48,11 +48,11 @@ Transaction-based revenue: the games will be sold premium, at a price point arou
 
 # Idea Validation
 
-## Customer Delivery - Overview
+* Customer Delivery - Overview
 
 In order to gain more insights on what particular features of our product will appeal to our clients and how much will they interact with our game as well, we decided we needed a customer segmentation. We used ***behavioural segmentation*** for this, because of the nature of our product (a game) and because of the fact that the more we predict the purchasing decisions of our customer, the more revenue our project gets.
 
-## Customer Detail - Process
+* Customer Detail - Process
 
 The next step was to conduct the survey, through Google Forms, and the question groups were:
 
@@ -93,7 +93,7 @@ The next step was to conduct the survey, through Google Forms, and the question 
 13. How old are you?
 > Although not a behavioural question, this helps us identify age groups and see if responses vary from one to another.
 
-## Customer Detail - Results
+* Customer Detail - Results
 
 Looking over our ***28 responses*** submitted in the past week we can make the following conclusions:
 
@@ -133,6 +133,6 @@ The price range selected by more than 50% is our proposed price range or more.
 
 Variations between age groups were very little, which means that our customers act independently of their age.
 
-## Customer Detail - Conclusions
+* Customer Detail - Conclusions
 
 Although some of our initial ideas like having a pack of games or catering the game to a horror audience didn't translate as well as we thought, we were pretty aligned with what our customers want. Knowing what features they want to see more, makes us prioritise certain things for the Customer Validation Stage. We surely know what attracts customers, making our marketing strategy easier.
