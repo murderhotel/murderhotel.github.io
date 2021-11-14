@@ -136,3 +136,24 @@ Variations between age groups were very little, which means that our customers a
 * Customer Detail - Conclusions
 
 Although some of our initial ideas like having a pack of games or catering the game to a horror audience didn't translate as well as we thought, we were pretty aligned with what our customers want. Knowing what features they want to see more, makes us prioritise certain things for the Customer Validation Stage. We surely know what attracts customers, making our marketing strategy easier.
+
+# Wireframe
+The object of the game is to solve a number of puzzles and escape the hotel.
+
+## Level 1 - Attic
+The first level is in the attic, where H.H. Holmes has trapped you, the player. After looking around the room, you find an odd looking oil lamp. Looking around some more, a note on the desk suggests using the oil lamp on an basic "hidden text" element, serving as an immersive tutorial on how to use the oil lamp to reveal invisible text. Following the revealed instructions, it becomes clear that you should look for a key hidden in the bookcase. The key unlocks the door and you are now free to roam the hotel.
+
+<img src="Murder_Hotel_-_Attic.png" width="100%">
+
+## Level 2 - Hotel
+The second level is the main hotel area, spanning two floors. Here, you are supposed to roam around while avoiding Holmes himself who appears in certain areas, either guiding you in the right direction or deterring you from reaching an objective. Holmes' apparitions also serve as a "breadcrumb trail" towards the objective: a photograph containing the puzzle for this level. Looking at the photograph leads you to an identical area in the hotel, except for one difference. Something is missing in the actual room, and investigating it leads you to a trap door, connecting to the basement. 
+
+<img src="Murder_Hotel_-_House.png" width="100%">
+
+## Level 3 - Basement
+The third and last level takes place in the basement. Looking around there is a locked door and it is hinted at that you should look for invisible writing on the wall, using the oil lamp. Once the writing is found, it leads you to a key that unlocks the door. Behind the door, there is another trap door that leads outside. Using it leads to freedom, the game is over!
+
+<img src="Murder_Hotel_-_Basement.png" width="100%">
+
+
+# Landing Page
