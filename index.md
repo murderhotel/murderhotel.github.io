@@ -173,3 +173,13 @@ The main scrollview is composed of 5 components:
 * The Twitch scrollable ribbon, which shows people currently playing the game, making the product more desirable.
 * The deal scrollable ribbon, which is composed of deals, which seem to be the number one determination of purchasing games, according the the survey conducted in M2.
 * The footer ribbon.
+
+# User Stories
+We decided to write the user stories from the perpective of someone in the playable character's shoes in order to help us create a more immersive experience.
+
+<img src="userstories.png" width="100%">
+
+# Persona
+
+<img src="Persona.png" width="100%">
+
