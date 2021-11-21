@@ -187,3 +187,99 @@ We decided to write the user stories from the perpective of someone in the playa
 
 <img src="Persona.png" width="100%">
 
+# Interviews
+
+## Luca, 23
+Do you own a Steam account?
+- Yes.
+
+How many games do you own on Steam?
+- About 15.
+
+Do you prefer shorter, low-commitment games or longer, more involved games?
+- Mostly prefers shorter games, but did not give a decisive answer. He has a strong preference towards shorter play sessions.
+
+How often do you play video games?
+- About twice a week, 2 hours or so at a time.
+
+What games do you currently play?
+- Civilization VI, Witch It
+
+When you're playing video games, how often is it a horror game?
+- Occasionally plays horror games. They are not his main focus, but he did express that 
+
+What makes you decide if you are going to buy a game full price or wait for a sale?
+- An indie game would have to be very good and have a reputation for him to pay 20 euros. 10-15 euros is the range he is willing to spend on an "unproved" indie game. For an AAA or other high budget game, he is only comfortable spending up to 35 euros. Anything above these prices (exceptional situations aside) will be bought on sale). Game length is not a consideration.
+
+Do you ever buy games just because they are on sale?
+- Not just because it is on sale, but if a game he was mildly interested in goes on sale, he will likely buy it.
+
+Have you ever played a game in VR? If so, what game(s)?
+- Yes, Beat Saber and I Expect You to Die. He enjoyed them both.
+
+Would you be excited to try a bite-sized puzzle-horror game in VR?
+- Definitely, the puzzle aspect is more exciting to Luca than the horror aspect, and the game being short is a good fit for his busy schedule at the office.
+
+## Dan, 25
+Do you own a Steam account?
+- Yes.
+
+How many games do you own on Steam?
+- About 18.
+
+Do you prefer shorter, low-commitment games or longer, more involved games?
+- Prefers high commitment games and regularly plays MMORPGs, but will often take a break to play a shorter game.
+
+How often do you play video games?
+- Quite often, pretty much every day.
+
+What games do you currently play?
+- World of Warcraft, Guilty Gear Strive, Phasmophobia
+
+When you're playing video games, how often is it a horror game?
+- Very often, most of the shorter games he plays between raids are horror games.
+
+What makes you decide if you are going to buy a game full price or wait for a sale?
+- He generally buys indie games full price, but never spends the full price on AAA games.
+
+Do you ever buy games just because they are on sale?
+- Yes, mostly because a friend tells him about them, and he buys the game in order to play together.
+
+Have you ever played a game in VR? If so, what game(s)?
+- Yes, Beat Saber, Ping Pong and Phasmophobia.
+
+Would you be excited to try a bite-sized puzzle-horror game in VR?
+- Yes, it would be great as something to play while taking a break from World of Warcraft, and it's a horror game as a bonus.
+
+## Ilaria, 22
+Do you own a Steam account?
+- Yes
+
+How many games do you own on Steam?
+- 23
+
+Do you prefer shorter, low-commitment games or longer, more involved games?
+- It depends on how much free time she has. When she's busy, she will almost exclusively play short, bite-sized games, but will gladly start one requiring a significant time investment during summer vacation.
+
+How often do you play video games?
+- About twice a week, mostly late at night.
+
+What games do you currently play?
+- Phasmophobia, Online board games.
+
+When you're playing video games, how often is it a horror game?
+- Almost every time, her favourite game is Phasmophobia.
+
+What makes you decide if you are going to buy a game full price or wait for a sale?
+- For an indie game, she usually pays full price up to 20 euros, and for a large-budget game a price over 40 euros will make her wait for a sale.
+
+Do you ever buy games just because they are on sale?
+- Only if they were already wishlisted and the sale is substantial.
+
+Have you ever played a game in VR? If so, what game(s)?
+- Yes, Phasmophobia.
+
+Would you be excited to try a bite-sized puzzle-horror game in VR?
+- Definitely, anything that reminds her of phasmophobia is welcome.
+
+## Interview Conclusions
