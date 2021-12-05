@@ -293,3 +293,62 @@ Another thing that became apparent is that we need people to recommend the game 
 
 Since the bite-size length and play sessions appealed to everyone, we think that this should be a main focus. Similar to childrens' TV shows, we want to make sure that play sessions are self explanatory and enjoyable even if the user has not played in a long time and doesn't remember much. This way, it will never feel like a hassle or an annoyance to "just play for a bit", further leaning on the casual audience: busy people who don't have a lot of time for games and heavy gamers who want a bit of diversity.
 
+# Lead Generation and Collection
+
+## Newsletter
+
+## Backstory
+
+Since our landing page is prototyped in XD, we needed a plugin that lets us test it. For that we used **Useberry**, which captures user insights by asking them to perform quick tests on our design prototype. The tasks that were given were:
+
+1. **The 5 sec test**: Look at the landing page for 5 sec and write the first thing you noticed.
+2. Sort the cards in the order you noticed them(the purchase button, the video previews, the game screenshot the logo of the game, the free trial, the upper menu, other elements (promotions etc.)
+3. **First Click**: Where would you click to purchase our product?
+4. **First Click**: Where would you click to access our Halloween sale?
+5. **First Click**: How about subscribing to our newsletter?
+6. **First Click**: What about viewing our other games?
+7. **First Click**: Can you also click on one Twitch video?
+8. **Yes/No**: Was your overall experience with our landing page good?
+
+## Results
+
+![Useberry screenshot](/test results/0.jpg "Result")
+
+1. The 5 sec test
+
+![Useberry screenshot](/test results/1.jpg "Result")
+
+2. Sort the cards in order
+
+![Useberry screenshot](/test results/2.jpg "Result")
+3. First Click
+
+![Useberry screenshot](/test results/3.jpg "Result")
+4. First Click
+
+![Useberry screenshot](/test results/4.jpg "Result")
+5. First Click
+
+![Useberry screenshot](/test results/5.jpg "Result")
+6. First Click
+
+![Useberry screenshot](/test results/6.jpg "Result")
+7. First Click
+
+![Useberry screenshot](/test results/7.jpg "Result")
+8. Yes/No
+
+![Useberry screenshot](/test results/8.jpg "Result")
+
+## Test Conclusions 
+
+The test results were overall great. From our limited 10 testers, we can make the following conclusions:
+
+1. The first thing that catches your eyes when looking at our landing page is either the logo or the video header. That is good as customers know exactly what the game is about.
+2. When it comes to card sorting, the way our testers ordered them follows the flow we want our customers to digest information about our product.
+3. All users clicked on either trying or buying the game, no other misclicks.
+4. Some people were stuck in the upper portion of the page, but most of them found the Halloween sale.
+5. Most users interacted with our Newsletter ribbon.
+6. Most of them were right to go in the Games section in the header.
+7. Here there was a little confusion between our video presentations and our Twitch ribbon. **Marking the video presentations as our content can help the confusion**.
+8. 90% of our testers had a good experience with the landing page.
