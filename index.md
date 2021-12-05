@@ -321,21 +321,27 @@ Since our landing page is prototyped in XD, we needed a plugin that lets us test
 2. Sort the cards in order
 
 ![Useberry screenshot](/test results/2.jpg "Result")
+
 3. First Click
 
 ![Useberry screenshot](/test results/3.jpg "Result")
+
 4. First Click
 
 ![Useberry screenshot](/test results/4.jpg "Result")
+
 5. First Click
 
 ![Useberry screenshot](/test results/5.jpg "Result")
+
 6. First Click
 
 ![Useberry screenshot](/test results/6.jpg "Result")
+
 7. First Click
 
 ![Useberry screenshot](/test results/7.jpg "Result")
+
 8. Yes/No
 
 ![Useberry screenshot](/test results/8.jpg "Result")
