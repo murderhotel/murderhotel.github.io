@@ -297,7 +297,7 @@ Since the bite-size length and play sessions appealed to everyone, we think that
 
 ## Newsletter
 
-The XD for our newsletter subscription: https://xd.adobe.com/view/d2694f4e-dadb-489f-8132-eae7c58fec24-873a/
+##### [Our Adobe XD Landing Page](https://xd.adobe.com/view/d2694f4e-dadb-489f-8132-eae7c58fec24-873a/)
 
 ## Backstory
 
