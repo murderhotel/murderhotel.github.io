@@ -365,4 +365,16 @@ The test results were overall great. From our limited 10 testers, we can make th
 
 Our target customers are VR headset owners, users of the Steam platform, which are passionate about puzzle & horror games.
 
-As [statistics show](https://backlinko.com/steam-users), 
+As [statistics show](https://backlinko.com/steam-users), Steam is a very successful platform:
+- ~120 million monthly active players
+- ~62.6 million people use Steam on a daily basis
+- 31.3 billion hours of playtime in 2020
+
+Also, [Steam survey data](https://www.roadtovr.com/monthly-connected-headsets-steam-3-million-march-2021/) suggests that ~3 million users (2.4%) own VR headsets, but this market is enjoying a rapidly growing interest rate, with hardware prices getting lower and quality getting better over time. As of 2020, [171 million VR headsets](https://techjury.net/blog/virtual-reality-statistics/#gref) are owned by consumers globally and this number is expected to keep growing rapidly.
+
+The video game industry tends to have a different behaviour than other industries, mainly because it is very developed (even overly developed at times), there is rarely a truly innovative and genuine idea, and it is almost impossible to keep track of all the similarities. 
+
+This is the reason why we have tried to pick a balanced amount of main competitors in the VR field, being very selective after identifying and analysing a lot of games, but also taking into consideration games focused solely on the horror or puzzle genre. 
+
+As trying to determine the approximate number of players / competitors in our targeted market, we have decided to conduct two researches: one that tackles the general overview concerning the VR-only market on Steam and one that analyses our cherry-picked main VR competitors.
+
