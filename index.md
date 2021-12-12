@@ -363,14 +363,16 @@ The test results were overall great. From our limited 10 testers, we can make th
 
 # Market research
 
+## Intro
+
 Our target customers are VR headset owners, users of the Steam platform, which are passionate about puzzle & horror games.
 
-As [statistics show](https://backlinko.com/steam-users), Steam is a very successful platform:
+As statistics show, [Steam](https://backlinko.com/steam-users) is a very successful platform:
 - ~120 million monthly active players
 - ~62.6 million people use Steam on a daily basis
 - 31.3 billion hours of playtime in 2020
 
-Also, [Steam survey data](https://www.roadtovr.com/monthly-connected-headsets-steam-3-million-march-2021/) suggests that ~3 million users (2.4%) own VR headsets, but this market is enjoying a rapidly growing interest rate, with hardware prices getting lower and quality getting better over time. As of 2020, [171 million VR headsets](https://techjury.net/blog/virtual-reality-statistics/#gref) are owned by consumers globally and this number is expected to keep growing rapidly.
+Also, Steam survey data suggests that [~3 million users](https://www.roadtovr.com/monthly-connected-headsets-steam-3-million-march-2021/) (2.4%) own VR headsets, but this market is enjoying a rapidly growing interest rate, with hardware prices getting lower and quality getting better over time. As of 2020, [171 million VR headsets](https://techjury.net/blog/virtual-reality-statistics/#gref) are owned by consumers globally and this number is expected to keep growing rapidly.
 
 The video game industry tends to have a different behaviour than other industries, mainly because it is very developed (even overly developed at times), there is rarely a truly innovative and genuine idea, and it is almost impossible to keep track of all the similarities. 
 
@@ -378,3 +380,41 @@ This is the reason why we have tried to pick a balanced amount of main competito
 
 As trying to determine the approximate number of players / competitors in our targeted market, we have decided to conduct two researches: one that tackles the general overview concerning the VR-only market on Steam and one that analyses our cherry-picked main VR competitors.
 
+## General VR-only overview
+
+5187 VR-only games available for buying today on Steam
+3 million Steam users that own a VR headset
+⇒ 3 million players / 5187 games 
+
+## Main VR competition based on the genre
+
+1. [Hellblade: Senua’s Sacrifice](https://store.steampowered.com/app/414340/Hellblade_Senuas_Sacrifice/) 
+- Release date: 8 Aug, 2017
+- An award winning puzzle-horror game with combat elements
+- It has introduced VR support as an update in 2018
+
+2. [The Walking Dead: Saints & Sinners](https://store.steampowered.com/app/916840/The_Walking_Dead_Saints__Sinners/)
+- Release date: 23 Jan, 2020
+- A narrative-driven VR horror game built around hard decisions that the player has to make
+- It is a VR-only game
+
+3. [Phasmophobia](https://store.steampowered.com/app/739630/Phasmophobia/)
+- Release date: 18 Sep, 2020
+- Phasmophobia is an extremely successful indie game centred around ghost hunting experiences that take place in different locations. 
+- It is available on both PC and VR 
+
+4. [The Room VR: A Dark Matter](https://store.steampowered.com/app/1104380/The_Room_VR_A_Dark_Matter/)
+- Release date: 26 Mar, 2020
+- Even though the game is puzzle-centred, the music, the lighting and the context create an oppressive atmosphere
+- Available only on VR
+
+5. [The Forest](https://store.steampowered.com/app/242760/The_Forest/)
+- Release date: 30 Apr, 2018
+- Survival horror simulator taking place in a forest where cannibals live
+- Features both PC and VR supports
+
+⇒ 3 million players / 5 horror or puzzle competitor games on VR
+
+## Competitors’ market share
+
+## Our potential market share
