@@ -360,3 +360,9 @@ The test results were overall great. From our limited 10 testers, we can make th
 6. Most of them were right to go in the Games section in the header.
 7. Here there was a little confusion between our video presentations and our Twitch ribbon. **Marking the video presentations as our content can help the confusion**.
 8. 90% of our testers had a good experience with the landing page.
+
+# Market research
+
+Our target customers are VR headset owners, users of the Steam platform, which are passionate about puzzle & horror games.
+
+As [statistics show](https://backlinko.com/steam-users), 
