@@ -417,4 +417,25 @@ As trying to determine the approximate number of players / competitors in our ta
 
 ## Competitors’ market share
 
+<img src="competition market share.jpg" width="100%">
+
 ## Our potential market share
+
+Since our competition consists mainly of AAA titles or sensationally successful indie games, our potential market share estimation isn't that comparable to theirs. So, taking all of those things into consideration, we have objectively estimated the following:
+
+<img src="potential market share.jpg" width="100%">
+
+## The value of our market share
+
+As statistics suggest, global VR video gaming revenues reached [$22.9B](https://techjury.net/blog/virtual-reality-statistics/#gref) in 2020. 
+
+As the validation process has highlighted, players prefer buying a game that is on sale rather than paying the full price. As such, we’re planning on implementing frequent minimal sales and our calculations take into consideration the interval of 16-18€.
+
+<img src="potential market share value.jpg" width="100%">
+
+## Conclusion
+
+The conducted research has put into light few interesting aspects: 
+- Availability is a key-factor regarding the number of copies sold. The two VR-only games (both indie and AAA) among our competitors have recorded significantly fewer downloads than the ones supporting both PC and VR gameplays. This particular insight motivated us to further investigate the possibility of also implementing a PC version of the game besides our main VR focus. 
+- The popularity of the Steam platform complies to our needs and offers us an important market opening
+- The growing interest towards VR technologies represents a notable advantage for our business
