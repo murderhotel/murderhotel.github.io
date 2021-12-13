@@ -423,7 +423,7 @@ As trying to determine the approximate number of players / competitors in our ta
 
 Since our competition consists mainly of AAA titles or sensationally successful indie games, our potential market share estimation isn't that comparable to theirs. So, taking all of those things into consideration, we have objectively estimated the following:
 
-<img src="potential market share.jpg" width="60%">
+<img src="potential market share.jpg" width="60%" align="center">
 
 ## The value of our market share
 
