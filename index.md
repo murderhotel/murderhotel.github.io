@@ -389,26 +389,31 @@ As trying to determine the approximate number of players / competitors in our ta
 ## Main VR competition based on the genre
 
 1. [Hellblade: Senua’s Sacrifice](https://store.steampowered.com/app/414340/Hellblade_Senuas_Sacrifice/) 
+
 - Release date: 8 Aug, 2017
 - An award winning puzzle-horror game with combat elements
 - It has introduced VR support as an update in 2018
 
 2. [The Walking Dead: Saints & Sinners](https://store.steampowered.com/app/916840/The_Walking_Dead_Saints__Sinners/)
+
 - Release date: 23 Jan, 2020
 - A narrative-driven VR horror game built around hard decisions that the player has to make
 - It is a VR-only game
 
 3. [Phasmophobia](https://store.steampowered.com/app/739630/Phasmophobia/)
+
 - Release date: 18 Sep, 2020
 - Phasmophobia is an extremely successful indie game centred around ghost hunting experiences that take place in different locations. 
 - It is available on both PC and VR 
 
 4. [The Room VR: A Dark Matter](https://store.steampowered.com/app/1104380/The_Room_VR_A_Dark_Matter/)
+
 - Release date: 26 Mar, 2020
 - Even though the game is puzzle-centred, the music, the lighting and the context create an oppressive atmosphere
 - Available only on VR
 
 5. [The Forest](https://store.steampowered.com/app/242760/The_Forest/)
+
 - Release date: 30 Apr, 2018
 - Survival horror simulator taking place in a forest where cannibals live
 - Features both PC and VR supports
