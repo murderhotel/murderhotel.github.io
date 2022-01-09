@@ -444,3 +444,108 @@ The conducted research has put into light few interesting aspects:
 - Availability is a key-factor regarding the number of copies sold. The two VR-only games (both indie and AAA) among our competitors have recorded significantly fewer downloads than the ones supporting both PC and VR gameplays. This particular insight motivated us to further investigate the possibility of also implementing a PC version of the game besides our main VR focus. 
 - The popularity of the Steam platform complies to our needs and offers us an important market opening
 - The growing interest towards VR technologies represents a notable advantage for our business
+
+# MVP
+
+[Demo](https://drive.google.com/file/d/1zl0-EFyQmQ9nzR-BYPpbEAQQmItKTBNO/view)
+
+Technical aspects: 
+- Unreal Engine & its Assets Marketplace
+- C++ & Blueprint Visual Scripting 
+- SteamVR
+- Oculus Quest 2
+
+The main idea of this game was subject to a lot of research and brainstorming among our team. Our goal was to stand out regarding the story and the setup, but we always kept the validation aspects in mind, even though we had generally planned the environment ahead. 
+
+Our interviewees reacted well to the idea of a bite-sized horror game, confirming the fact that it is a niche, unsaturated market that is in demand. We decided to remain with Steam as our main distribution platform, as they provide an environment to self publish games easily accessible by interested buyers. They also perpetually showcase new games and organise themed sale events, allowing new indie games to be discovered. Moreover, SteamVR is the leading tool used to interact with PC VR headsets and it abstracts away most hardware-specific behaviour.
+
+Keeping the game bite-sized is an extremely important aspect, as we confirmed that a variety of player archetypes would be interested in short experiences: hardcore gamers who want to take a break and casual gamers who just want to have an interesting experience, but not spend too much time or money on it. We have, on the other hand, reached the conclusion that the horror aspect is not absolutely necessary for our game to be successful as it is a matter of taste, but we still believe that the horror genre is a good starting point. It lends itself very well to short experiences, leveraging the concept of "fear of the unknown" when leaving certain elements unexplained, for instance. This allows the development team more leeway when making potential mistakes on a first game, while not severely impacting the quality of our final product.
+
+Despite not being able to obtain hard user validation for this information, we still believe that VR is the way to go. Our business' premise is that VR is an untapped market and there have been precedents of successful indie VR horror games such as "The Room VR: A Dark Matter", as shown in our market research section. We were unable to obtain solid feedback on this matter due to the fact that any interviewees who already own a VR headset would naturally have no aversion to this aspect, while any who do not already own one would clearly not buy a headset for this experience alone. VR headset ownership will continue to grow worldwide in the following years as the concept becomes both more popular and cheaper to access.
+
+<img src="AR VR stats.jpg" width="100%">
+
+The MVP follows a structure familiar to anyone who has played puzzle games before: solve a puzzle, move to the next room, repeat, while placing this flow into context: the player has a compelling reason to solve the puzzle and move forward - they are trying to escape the Murder Hotel. This first game contains three fully-playable levels, each taking place on a different floor of the house. Details can be found in the wireframe/game design section.
+
+There are a number of improvements that we want to incorporate into Murder Hotel before it is ready for release.
+
+The backstory is not clear enough as-is: our only mention of the Murder Hotel is at the end and we don't believe it's clear enough to the player what they are trying to escape from. Players gain this information from the synopsis, but we think that it would be more immersive if there were bits of lore scattered around the level that can be found while searching for clues.
+
+Playtesting has also underlined a number of technical flaws that need to be addressed, and a few design flaws: more clarity needs to be added to certain elements. We need to make sure that the player knows exactly what they managed to do at any point in time and visually and auditorily reward them for it, accentuating their progress. There are also a few elements that don't work as well based on player height and instinctive behaviour, as detailed in the playtesting section. Once this game is released, we intend to begin work on our next one, taking into account sales, reviews and any other newly available information.
+
+
+# First sell
+
+Two of our friends own a VR headset and they were both interested in trying our MVP.
+
+### George, 22
+
+[Rec](https://drive.google.com/file/d/1JMmi7UCma5jyD5WF1YBUOoF62hLferbd/view?usp=sharing)
+
+1. What was the most frustrating moment or aspect of what you just played? 
+- The progress is not clear enough at times - e.g.: In the Attic level, the fact that the key is hidden inside the blue book could’ve been more obvious for the player
+- The in-game movement, or perhaps the collisions, should be improved 
+
+2. What was your favourite moment or aspect of what you just played? 
+- The music & the overall atmosphere support the feeling of immersion 
+- VR was a big bonus regarding this subject - he is not a big fan of similar games on PC
+
+3. Was there anything you wanted to do that you couldn’t? 
+- More interaction with the environment would’ve been nice - e.g.: doors, random objects around the house, chairs etc. 
+
+4. If you had a magic wand to wave, and you could change, add, or remove anything from the experience, what would it be? 
+- Implement an inventory for having better access to the oil lamp, lantern and other useful items - the visual interface should allow you to grab whichever object you prefer 
+
+5. What were you doing in the experience? 
+- Goal: exploration and problem solving, mostly trial & error
+- The atmosphere is pretty great already
+- Simple yet challenging puzzles - high potential if the interaction were improved 
+- Recommended for one-time play for fun 
+
+6. Would you be interested in more similar games? 
+- A pack of 6-8 games would be great, perhaps priced around 30€
+
+### Dan, 25
+
+[Rec](https://drive.google.com/file/d/19c2QzBUA3vhInHsA5U6rFYkQg-SgaUm6/view?usp=sharing)
+
+1. What was the most frustrating moment or aspect of what you just played? 
+- The ending of the first level was not clear enough and created the sensation of feeling lost
+
+2. What was your favourite moment or aspect of what you just played? 
+- The puzzles are not as easy to complete as they seem - they require a good analysis & thinking process
+
+3. Was there anything you wanted to do that you couldn’t? 
+- “I would’ve loved interacting with the pool cue” 
+
+4. If you had a magic wand to wave, and you could change, add, or remove anything from the experience, what would it be? 
+- The house seemed a bit “empty” - would populate it more with different interactable objects
+
+5. What were you doing in the experience? 
+- Realistic experience, quite like you’re the protagonist of a movie and you have to find clues in order to advance throughout your journey
+- Enjoyable horror experience, nice jumpscares, overall potential
+- Loved the fact the outdoor scene was explorable quite like an open world
+
+## Interview conclusions 
+
+The final version of our game should implement more graphical validations regarding the progress. For example, during the first level of the game, we have to clarify the fact that the book contains the key to the door since neither of our users understood that. Stating this via the user interface and adding the key to the inventory would improve the user experience. 
+
+We should focus on allowing the user to interact more with the environment. Both our testers declared they would desire more possibilities of interaction with the objects present in the scenario. They told us they were willing to move chairs, open doors, grab the pool cue etc, but weren’t able to. We understand this aspect was frustrating and negatively impacts the overall experience, but we have chosen to focus on implementing puzzles and creating a heavy atmosphere rather than making sure each asset is interactable in this early development stage. We will keep this aspect in mind while developing the final product since it contravenes with the immersion supported by using VR. 
+
+The atmosphere is well received by a casual player. The users enjoyed the music, and it created the intended result. 
+
+The inventory placeholder system where a player can teleport the oil lamp and flashlight to their hand is not as immersive or intuitive as attaching said items to their belt. By doing this, players can access important items by physically reaching for them on a utility belt that functions like an inventory.
+
+## Playtest impressions & Final conclusions
+
+Players had difficulty figuring out that the blue book they picked up contains a key to the door in the attic level.
+
+Players had difficulty associating the trap door asset we chose with an actual trap door/doorway. This can be easily fixed by finding a different asset.
+
+Players tended to stop interacting with doors after a certain number of attempts, making the way to progress become unclear. The issue is likely design related, as our levels have a number of doors that cannot be interacted with, essentially training the player to ignore them. Our levels should be redesigned with doors in mind as an element that should spark interest, not be glossed over.
+
+There were certain areas where tall players would accidentally put their head through the ceiling, these areas should be re-scaled to accommodate different heights.
+
+A certain doorway proved difficult to cross if the players accidentally physically moved away from their standing point in real life. This is a technically complex issue, because it depends on VR tracking behaviour, but the issue could be minimised by making the doorway wider and/or making the player's collider smaller.
+
+Puzzles need to be extremely clear, and of a medium complexity. Having a VR headset on for extended periods of time is very tiring, and we don't want our players to spend huge amounts of time in our game anyway, as it would contradict our business plan. This means that puzzles should not be too complicated to solve without a piece of paper, and the horror atmosphere already puts pressure on our player.
