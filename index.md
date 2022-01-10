@@ -478,7 +478,7 @@ Playtesting has also underlined a number of technical flaws that need to be addr
 
 Two of our friends own a VR headset and they were both interested in trying our MVP.
 
-### [George, 22](https://drive.google.com/file/d/1JMmi7UCma5jyD5WF1YBUOoF62hLferbd/view?usp=sharing) 
+### [George, 22](https://drive.google.com/file/d/1uZ8DQPmqCKw5R6CqyZ9qgeBJin1nkZpd/view?usp=sharing) 
 
 1. What was the most frustrating moment or aspect of what you just played? 
 - The progress is not clear enough at times - e.g.: In the Attic level, the fact that the key is hidden inside the blue book could’ve been more obvious for the player
@@ -503,7 +503,7 @@ Two of our friends own a VR headset and they were both interested in trying our 
 6. Would you be interested in more similar games? 
 - A pack of 6-8 games would be great, perhaps priced around 30€
 
-### [Dan, 25](https://drive.google.com/file/d/19c2QzBUA3vhInHsA5U6rFYkQg-SgaUm6/view?usp=sharing) 
+### [Dan, 25](https://drive.google.com/file/d/16ePETo8FGLoMl4I77fP1Z78jZ3-YWpyJ/view?usp=sharing) 
 
 1. What was the most frustrating moment or aspect of what you just played? 
 - The ending of the first level was not clear enough and created the sensation of feeling lost
