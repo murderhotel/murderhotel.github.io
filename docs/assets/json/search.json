@@ -1,0 +1,59 @@
+[
+  
+    {
+      "title"    : "First Sell",
+      "tags"     : "Milestone 8",
+      "url"     : "/blog/m8/",
+      "date"     : "10/1/2022"
+    } ,
+  
+    {
+      "title"    : "MVP",
+      "tags"     : "Milestone 7",
+      "url"     : "/blog/m7/",
+      "date"     : "10/1/2022"
+    } ,
+  
+    {
+      "title"    : "Market Research",
+      "tags"     : "Milestone 6",
+      "url"     : "/blog/m6/",
+      "date"     : "13/12/2021"
+    } ,
+  
+    {
+      "title"    : "Validation 2",
+      "tags"     : "Milestone 5",
+      "url"     : "/blog/m5/",
+      "date"     : "6/12/2021"
+    } ,
+  
+    {
+      "title"    : "Milestone 4",
+      "tags"     : "Milestone 4",
+      "url"     : "/blog/m4/",
+      "date"     : "22/11/2021"
+    } ,
+  
+    {
+      "title"    : "Wireframe",
+      "tags"     : "Milestone 3",
+      "url"     : "/blog/m3/",
+      "date"     : "15/11/2021"
+    } ,
+  
+    {
+      "title"    : "Validation 1",
+      "tags"     : "Milestone 2",
+      "url"     : "/blog/m2/",
+      "date"     : "8/11/2021"
+    } ,
+  
+    {
+      "title"    : "Project Description",
+      "tags"     : "Milestone 1",
+      "url"     : "/blog/welcome-to-jekyll/",
+      "date"     : "25/10/2021"
+    } 
+  
+]

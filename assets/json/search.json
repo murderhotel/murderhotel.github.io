@@ -1,59 +1,13 @@
+---
+---
+
 [
-  
+  {% for post in site.posts %}
     {
-      "title"    : "First Sell",
-      "tags"     : "Milestone 8",
-      "url"     : "/typing-jekyll-template//blog/m8/",
-      "date"     : "10/1/2022"
-    } ,
-  
-    {
-      "title"    : "MVP",
-      "tags"     : "Milestone 7",
-      "url"     : "/typing-jekyll-template//blog/m7/",
-      "date"     : "10/1/2022"
-    } ,
-  
-    {
-      "title"    : "Market Research",
-      "tags"     : "Milestone 6",
-      "url"     : "/typing-jekyll-template//blog/m6/",
-      "date"     : "13/12/2021"
-    } ,
-  
-    {
-      "title"    : "Validation 2",
-      "tags"     : "Milestone 5",
-      "url"     : "/typing-jekyll-template//blog/m5/",
-      "date"     : "6/12/2021"
-    } ,
-  
-    {
-      "title"    : "Milestone 4",
-      "tags"     : "Milestone 4",
-      "url"     : "/typing-jekyll-template//blog/m4/",
-      "date"     : "22/11/2021"
-    } ,
-  
-    {
-      "title"    : "Wireframe",
-      "tags"     : "Milestone 3",
-      "url"     : "/typing-jekyll-template//blog/m3/",
-      "date"     : "15/11/2021"
-    } ,
-  
-    {
-      "title"    : "Validation 1",
-      "tags"     : "Milestone 2",
-      "url"     : "/typing-jekyll-template//blog/m2/",
-      "date"     : "8/11/2021"
-    } ,
-  
-    {
-      "title"    : "Project Description",
-      "tags"     : "Milestone 1",
-      "url"     : "/typing-jekyll-template//blog/welcome-to-jekyll/",
-      "date"     : "25/10/2021"
-    } 
-  
+      "title"    : "{{ post.title | escape }}",
+      "tags"     : "{{ post.tags | join: ', ' }}",
+      "url"     : "{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ post.url }}",
+      "date"     : "{{ post.date | date: "%-d/%-m/%Y" }}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
 ]
