@@ -71,10 +71,10 @@ website:
         text: "Comments"
       author:
         avatar: "author.png"
-        title: "Author"
-        name: "Typing Theme"
+        title: ""
+        name: "Murder Hotel"
         description: |
-          Hi! I'm the Typing theme. :)
+          
       share:
         title: "Share this post"
       comments:
@@ -137,7 +137,7 @@ website:
           Here you find the posts related to the specified tag.
 # Footer
   footer:
-    message: "Simplicity is fashionable."
+    message: 
 
 # User data
 userdata:
