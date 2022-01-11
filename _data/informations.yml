@@ -76,7 +76,7 @@ website:
         description: |
           
       share:
-        title: "Share this post"
+        title: "Share this milestone"
       comments:
         title: "Leave a comment on this post"
 
