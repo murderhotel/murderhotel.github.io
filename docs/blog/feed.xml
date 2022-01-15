@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://murderhotel.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://murderhotel.github.io/" rel="alternate" type="text/html" /><updated>2022-01-15T12:37:07+02:00</updated><id>https://murderhotel.github.io/blog/feed.xml</id><entry><title type="html">MVP</title><link href="https://murderhotel.github.io/blog/m7/" rel="alternate" type="text/html" title="MVP" /><published>2022-01-10T14:00:00+02:00</published><updated>2022-01-10T14:00:00+02:00</updated><id>https://murderhotel.github.io/blog/m7</id><content type="html" xml:base="https://murderhotel.github.io/blog/m7/">&lt;ul id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://murderhotel.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://murderhotel.github.io/" rel="alternate" type="text/html" /><updated>2022-01-15T13:50:07+02:00</updated><id>https://murderhotel.github.io/blog/feed.xml</id><entry><title type="html">MVP</title><link href="https://murderhotel.github.io/blog/m7/" rel="alternate" type="text/html" title="MVP" /><published>2022-01-10T14:00:00+02:00</published><updated>2022-01-10T14:00:00+02:00</updated><id>https://murderhotel.github.io/blog/m7</id><content type="html" xml:base="https://murderhotel.github.io/blog/m7/">&lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#watch-our-demo-here&quot; id=&quot;markdown-toc-watch-our-demo-here&quot;&gt;Watch Our Demo Here!&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#technical-aspects&quot; id=&quot;markdown-toc-technical-aspects&quot;&gt;Technical aspects&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#description&quot; id=&quot;markdown-toc-description&quot;&gt;Description&lt;/a&gt;&lt;/li&gt;
@@ -575,6 +575,7 @@
             &lt;img class=&quot;img-fluid mx-auto d-block&quot; src=&quot;/assets/images/posts/Persona.png&quot; title=&quot;Persona.png&quot; alt=&quot;Persona.png&quot; /&gt;
           &lt;/div&gt;</content><author><name></name></author><category term="Milestone 4" /></entry><entry><title type="html">Wireframe &amp;amp; Landing Page</title><link href="https://murderhotel.github.io/blog/m3/" rel="alternate" type="text/html" title="Wireframe &amp;amp; Landing Page" /><published>2021-11-15T14:00:00+02:00</published><updated>2021-11-15T14:00:00+02:00</updated><id>https://murderhotel.github.io/blog/m3</id><content type="html" xml:base="https://murderhotel.github.io/blog/m3/">&lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#wireframe&quot; id=&quot;markdown-toc-wireframe&quot;&gt;Wireframe&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#initial-inspiration&quot; id=&quot;markdown-toc-initial-inspiration&quot;&gt;Initial Inspiration&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#level-1---attic&quot; id=&quot;markdown-toc-level-1---attic&quot;&gt;Level 1 - Attic&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#level-2---hotel&quot; id=&quot;markdown-toc-level-2---hotel&quot;&gt;Level 2 - Hotel&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#level-3---basement&quot; id=&quot;markdown-toc-level-3---basement&quot;&gt;Level 3 - Basement&lt;/a&gt;&lt;/li&gt;
@@ -588,6 +589,11 @@
 
 &lt;h1 id=&quot;wireframe&quot;&gt;Wireframe&lt;/h1&gt;
 &lt;p&gt;The object of the game is to solve a number of puzzles and escape the hotel.&lt;/p&gt;
+
+&lt;h2 id=&quot;initial-inspiration&quot;&gt;Initial Inspiration&lt;/h2&gt;
+&lt;div class=&quot;row imager__plugin&quot;&gt;
+            &lt;img class=&quot;img-fluid mx-auto d-block&quot; src=&quot;/assets/images/posts/murdercastle.jpg&quot; title=&quot;murdercastle.jpg&quot; alt=&quot;murdercastle.jpg&quot; /&gt;
+          &lt;/div&gt;
 
 &lt;h2 id=&quot;level-1---attic&quot;&gt;Level 1 - Attic&lt;/h2&gt;
 &lt;p&gt;The first level is in the attic, where H.H. Holmes has trapped you, the player. After looking around the room, you find an odd looking oil lamp. Looking around some more, a note on the desk suggests using the oil lamp on an basic “hidden text” element, serving as an immersive tutorial on how to use the oil lamp to reveal invisible text. Following the revealed instructions, it becomes clear that you should look for a key hidden in the bookcase. The key unlocks the door and you are now free to roam the hotel.&lt;/p&gt;
